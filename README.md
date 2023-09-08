@@ -17,7 +17,3 @@ Skills: PYTHON / OPENCV / ML / UNREAL ENGINE / ARDUINO /SOFTWARE DEV
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevgeniyTen)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YevgeniyTen&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YevgeniyTen)  
-
-![Profile views](https://gpvc.arturio.dev/YevgeniyTen)  
